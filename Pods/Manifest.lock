@@ -1,0 +1,27 @@
+PODS:
+  - Bolts/Tasks (1.7.0)
+  - CarbonKit (2.1.6)
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - Onboard (2.1.9)
+  - Parse (1.13.0):
+    - Bolts/Tasks (~> 1.6)
+  - TLYShyNavBar (1.0.0)
+
+DEPENDENCIES:
+  - CarbonKit (~> 2.1)
+  - ChameleonFramework
+  - Onboard
+  - Parse
+  - TLYShyNavBar
+
+SPEC CHECKSUMS:
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  CarbonKit: 101a21d2c50ab9453fa4fcbf29de7c81008d8b65
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Onboard: 4d92c763ed15f939071dec12e87ed9e8dc036746
+  Parse: f51c24d2feb412e4b2d6cc73d37cb24e8d0089bc
+  TLYShyNavBar: d313a1c50c58cb7af744829120eaa33ca8a998ce
+
+COCOAPODS: 0.39.0
